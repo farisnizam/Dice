@@ -10,6 +10,18 @@
 
 }
 
+.playBtn {
+  margin-top:50px;
+  padding: 15px 50px;
+  border: none;
+  border-radius: 20px;
+  color: #212529;
+  text-transform: uppercase;
+  font-size: large;
+  font-weight: bold;
+  background-color: #ffc107;
+}
+
 body {
   background-color: #393E46;
 }
@@ -33,7 +45,7 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 50px;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
